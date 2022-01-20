@@ -1,6 +1,6 @@
 Coyote Space Industries
 
-# CSI-Cargo-Freighter
+# Coyote Cargo Freighter (CCF)
 
 Cargo Freighter for KSP
 
