@@ -12,7 +12,7 @@ repository:
   name: CoyoteCargoFreighter
 
   # A short description of the repository that will show up on GitHub
-  description: Cargo Freighter for Kerbal Space Prpgram.
+  description: Cargo Freighter for Kerbal Space Program.
 
   # A URL with more information about the repository
   homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/159615-*
