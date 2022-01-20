@@ -1,4 +1,7 @@
+Coyote Space Industries
+
 # CSI-Cargo-Freighter
+
 Cargo Freighter for KSP
 
 originally by @dboi88
