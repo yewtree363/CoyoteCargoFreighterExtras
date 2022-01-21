@@ -18,7 +18,7 @@ repository:
   homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/159615-*
   
   # A comma-separated list of topics to set on the repository
-  topics: kerbal, kerbalspaceprogram, ksp, ksp-mods, ksp-parts, kerbal-space, kerbal-space-program, kerbal-mods, zedk
+  topics: cargo, freight coyote, csi, kerbal, kerbalspaceprogram, ksp, ksp-mods, ksp-parts, kerbal-space, kerbal-space-program, kerbal-mods, zedk
   
   # Either `true` to make the repository private, or `false` to make it public.
   private: false
@@ -85,6 +85,14 @@ labels:
     color: FFFFF0
     description: related to localization and translations
 
+  - name: "type: infrastructure"
+    color: ffdda8
+    description: improvements or additions to project infrastructure
+   
+  - name: "type: automation"
+    color: fbca04
+    description: issues for automation actions
+    
   - name: "issue: text"
     color: FBCA04
     description: issue type
