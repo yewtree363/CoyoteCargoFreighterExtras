@@ -1,5 +1,5 @@
 # Changelog  
-  
+
 | modName    | Coyote Cargo Freighter (CCF)                                      |
 | ---------- | ----------------------------------------------------------------- |
 | license    | CC-BY-ND-3.0                                                      |
@@ -91,6 +91,109 @@ renamed to more descriptive name
 
 ExtraplanetaryLaunchpads
 SimpleConstruction
+
 ---
+
+## Version 0.3.1
+
+* 2017-12-26
+* Released for Kerbal Space Program 1.3.1
+
+* Recompile for 1.3.1
+* dependency updates
+
+---
+
+## Version 0.2.4
+
+* 2017-08-09
+* Released for Kerbal Space Program 1.3.0
+
+* Fixed Craft Files
+
+---
+
+## Version 0.2.3
+
+* 2017-06-03
+* Released for Kerbal Space Program 1.3.0
+
+* Updated To KSP 1.3
+* Added Docking Feature To Kontainers & Rear Truss
+* Added New Docking Port - Size 3 (To Match Kontainers)
+* Added New Custom Plugin - CSI Tools
+  * Removed USI Weight Balancing Features
+  * Added New Custom Weight Balancing Feature
+* Fixed Crew Transfer Bugs (for good this time)
+* Added Temp IVA's For All Crewed Parts
+* Added New Custom Animated Docking Port PartModule
+
+---
+
+## Version 0.2.2
+
+* 2017-05-04
+* Released for Kerbal Space Program 1.3.0
+
+* Fixed
+  * slight misalignment on Hanger Bay
+  * missing side panels on greenhouse module
+  * Crew Transfer Fix
+* Added Crew Hatches & Ladders To Recyler, Workshop
+
+---
+
+## Version 0.2.1
+
+* 2017-05-03
+* Released for Kerbal Space Program 1.2.2
+
+* Crew Transfer Fix
+
+---
+
+## Version 0.2.0
+
+* 2017-05-01
+* Released for Kerbal Space Program 1.2.2
+
+* Fixed node direction on grinder module for EPL (sorry if this messes your ships up)
+* Fixed node location on MedBay (sorry if this messes your ships up)
+* Fixed node location on Passenger Cabin (sorry if this messes your ships up)
+* Fixed various spelling mistakes
+* Updated USI-Tools Dependency
+* Fixed Size differences on cargo bay number decals
+* ReSized textures to integers of 2 for dds compressions and MIP maps
+* Converted Textures to DDS format (some minor quality losses but much better performance)
+* Add MIP maps for all texture (the ships edges and lines should now look a lot better when zooming out) - New Engine Technology! - more career friendly Karbonite/Karboundrum/EC mix with brand new FX 14,000,000 per refuel (vs previous 250,000,000)[won't break existing ships if you empty out the excess karborundum new capacity 3500 units] - Added custom Engine FX Modules and particles
+* Fixed Pick-Up orientation of small modules plus node location (sorry if this messes your ships up)
+* Fixed texture on Small KIS Kontainer For EVA Rack
+* Fixed textures not showing part preview windows for small EVA rack kontainers
+* Fixed normal maps for EVA rack kontainers
+* Fixed dynamic meshes on EVA KIS Kontainer
+* Fixed HangerBay Pick-Up orientation (sorry if this messes your ships up)
+* Added attach nodes to the inside of Cargo Bays & HangerBay - Added support for allista's Hanger Mod configs included for the CargoBay & HangerBay (dock crafts while retaining complete COM balance and low part count)
+* Added nodes for docking ports to top bottom and sides of freighter hull - Added custom CSI Freighter catagory for all freighter parts
+* Added Coyote Industries agency and associated images
+* Increased node strength on rear engine to match joint strength of rest of ship (feel free to try landing it now ;))
+* Fixed Z fighting issues on small greenhouse emissive mesh
+
+---
+
+## Version 0.1.7
+
+* 2017-04-22
+* Released for Kerbal Space Program 1.2.2
+
+Minor Career Fixes
+
+---
+
+## Version 0.1.6
+
+* 2017-04-22
+* Released for Kerbal Space Program 1.2.2
+
+* No changelog provided
 
 ---
