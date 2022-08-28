@@ -16,9 +16,7 @@
         "**/SimpleIcons/**",
         "**/Spaces/**",
         "**/Textures/**",
-        "**/UI/**",
-        "**/GameData/**",
-        "docs/LegalMumboJumbo/*"
+        "**/UI/**"
     ],
     "aggressiveCompression": "false",
     "compressWiki": "true",
