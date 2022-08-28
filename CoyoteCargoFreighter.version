@@ -2,7 +2,7 @@
 	"NAME"		     : "Coyote Cargo Freighter (CCF)",
 	"URL"		 	 : "https://raw.githubusercontent.com/zer0Kerbal/CoyoteCargoFreighter/master/CoyoteCargoFreighter.version",
 	"DOWNLOAD"	     : "https://github.com/zer0Kerbal/CoyoteCargoFreighter/releases/latest",
-	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/CoyoteCargoFreighter/master/Changelog.cfg",
+	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/CoyoteCargoFreighter/master/changelog.md",
 	"GITHUB" :
 	{
 		"USERNAME"		    : "zer0Kerbal",
