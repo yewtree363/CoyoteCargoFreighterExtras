@@ -1,0 +1,26 @@
+{
+    "schedule": "weekly",
+    "ignoredFiles": [
+        "GameData/CoyoteSpaceIndustries/CoyoteCargoFreighter/*",
+        "source/*",
+        "**/@thumbs/**",
+        "**/Agencies/**",
+        "**/Assets/**",
+        "**/Flags/**",
+        "**/FX/**",
+        "**/Icons/**",
+        "**/LegalMumboJumbo/**",
+        "**/Parts/**",
+        "**/PluginData/**",
+        "**/Props/**",
+        "**/SimpleIcons/**",
+        "**/Spaces/**",
+        "**/Textures/**",
+        "**/UI/**",
+        "**/GameData/**",
+        "docs/LegalMumboJumbo/*"
+    ],
+    "aggressiveCompression": "false",
+    "compressWiki": "true",
+    "minKBReduced": 500
+}
