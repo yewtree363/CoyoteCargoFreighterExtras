@@ -18,7 +18,7 @@ based upon work by godarklight
 
 [Home](/index.md)
 
-## Disclaimer by [`@godarklight`][godarklight]
+## Disclaimer by [`zer0Kerbal`][zer0Kerbal]
 
 > Use of this mod may result in the following side effects:
 >
@@ -28,7 +28,7 @@ based upon work by godarklight
 >
 > For those questioning the grips on my reality, please click [here](https://forum.> kerbalspaceprogram.com/)
 
-<a href="https://forum.%3E%20kerbalspaceprogram.com/"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2012%2F04%2F24%2F13%2F19%2Fexclamation-40026_960_720.png&f=1&nofb=1" alt="Public Domain license. Ausrufezeichen Warnung Alarm · Kostenlose Vektorgrafik auf ..." style="zoom:80%;" /></a>
+<a href="https://forum.%3E%20kerbalspaceprogram.com/"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2012%2F04%2F24%2F13%2F19%2Fexclamation-40026_960_720.png&f=1&nofb=1" alt="Public Domain license. Ausrufezeichen Warnung Alarm · Kostenlose Vektorgrafik auf ..." style="zoom:50%;" /></a>
 
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
 
