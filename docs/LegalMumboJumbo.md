@@ -1,27 +1,49 @@
 ---
 permalink: /LegalMumboJumbo.html
 title: Legal Mumbo Jumbo
+description: when the revolution comes, .... Legal Mumbo Jumbo (Douglas Adams)
+tags: legal,mumbo,jumbo,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
 <!--
-LegalMumboJumbo.md v1.0.2.0
-Coyote Cargo Freighter (CCF)
+LegalMumboJumbo.md v1.0.5.1
+Coyote Cargo Freighter (CCF
 created: 01 Feb 2022
-updated: 01 Feb 2022
+updated: 15 May 2022
 -->
 
-[Home](https://zer0kerbal.github.io/CoyoteCargoFreighter)
-
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
-<i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i>
+<i class="fa-solid fa-file-contract fa-beat-fade fa-3x" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: #6495ED" ></i>
 
 # Coyote Cargo Freighter (CCF)
 
-[Home](/index.md)
+[Home](./index.md)
 
-* ![LegalMumboJumbo](/LegalMumboJumbo/FORUM-01.png)
-* ![LegalMumboJumbo](/LegalMumboJumbo/FORUM-02.png)
+## Legal Mumbo Jumbo
 
-<!-- * ![LegalMumboJumbo](/LegalMumboJumbo/CC-BY-ND-3.0.md) -->
+* Table of Contents
+  * [License](#License)
+  * [Forum Post #1](#Forum-I)
+  * [Forum Post #2](#Forum-II)
 
-<!-- this file CC BY-NC-ND 3.0 Unported by zer0Kerbal -->
+### License
+
+[License](./LegalMumboJumbo/License.md)
+[Original License](./LegalMumboJumbo/OrigLicense.txt)
+[License Notes](./LegalMumboJumbo/LicenseNotes.txt)
+[License](./LegalMumboJumbo/License.md)
+[top](#Legal-Mumbo-Jumbo)
+
+### Forum I
+
+![Forum](./LegalMumboJumbo/FORUM-01.png)
+[top](#Legal-Mumbo-Jumbo)
+
+### Forum II
+
+![Forum](./LegalMumboJumbo/FORUM-02.png)
+[top](#Legal-Mumbo-Jumbo)
+
+---
+
+<!-- this file CC BY-ND 4.0 by zer0Kerbal -->
