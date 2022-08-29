@@ -37,6 +37,6 @@
 	"INSTALL_LOC" :
 	{
 		"NAME" :	  "CoyoteCargoFreighter",
-		"DIRECTORY" : "Coyote Space Industries/CoyoteCargoFreighter"
+		"DIRECTORY" : "CoyoteSpaceIndustries/CoyoteCargoFreighter"
 	}
 }
