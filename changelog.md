@@ -12,6 +12,136 @@
 
 ## Version 0.3.99.0 - for KSP 1.12.3 [28-Aug-2022]
 
+This is part of a planned series of updates to this addon. Each update will update some of the parts and patches so that instead of one massive update I can update the addon in a more manageable way.
+
+Part of the complexity is the advanced design of this addon. The addon is designed to be as modular as possible, so that it can be used in a variety of ways.
+
+Another part is `CSI Tools (CSIT)` (library addon) that adds vessel CoM balancing which is being handled seperately.
+
+### Summary 0.3.99.0
+
+* Can now search for `ccf` or `csi` in the editor search bar to find all Coyote Cargo Freighter parts
+* Only those parts that are updated will appear in this and subsequent releases
+* `ghostparts.cfg` has been temporarily added to attempt to prevent save game spoilage
+
+## Adoption by zer0Kerbal
+
+### Documentation
+
+* Create
+  * [x] readme
+  * deploy to:
+    * [x] CurseForge Description page 🤬
+    * [x] Forum Original Post 🐰
+    * [x] SpaceDock Information page 🌮
+  * [x] release notes
+  * [x] [changelog.md]
+  * [x] update /docs/
+
+### GitHub Pages
+
+* Create
+  * docs/
+    * [x] [`_config.yml`]
+    * [x] [404.md] v1.0.3.2
+    * [x] [Assembly.md] v1.0.0.0
+    * [x] [Attribution.md] v1.0.7.1
+    * [x] [Disclaimer.md] v1.0.7.1
+    * [x] [LegalMumboJumbo.md] v1.0.5.1
+    * [x] [Localizations.md] v1.1.7.0
+    * [x] [ManualInstallation.md] v1.1.8.0
+    * [x] [Marketing.md] v1.0.1.0
+    * [x] [Notices.md] v1.0.1.0
+    * [x] [PartsCatalog.md] v1.1.4.1
+    * [x] [Why.md] v1.1.0.0
+
+### Legal Mumbo Jumbo
+
+* Create
+  * [x] license check
+  * [x] offline documentation
+  * _Legal
+    * screenshots and pdfs
+    * adoptionLetters
+    * communications concerning
+  * _Links/
+    * link(s) saved
+  * docs/LegalMumboJumbo
+    * [License.md]
+    * FORUM-##.png's
+      * [x] public documentation
+  * [x] GitHub: :octocat:
+    * [x] LICENSE
+    * [x] [license].txt
+  * [x] CurseForge
+  * [x] SpaceDock
+  * [x] CKAN
+
+### Part Asset Updates 0.3.99.0
+
+* [x] create Assets/ folder
+* [x] convert from mesh to MODEL
+* [x] rename
+  * [x] models to unique names
+  * [x] textures to unique names
+* [x] update
+  * [x] model pointers (.png et al to .dds)
+  * [x] model texture pointers to new names
+* [x] relocate assets to Assets/
+* [x] eliminate
+  * [x] duplicate textures
+  * [x] duplicate models
+* [x] relocate part.cfg to Parts/
+* closes # - Asset Updates
+
+### Config 0.3.99.0
+
+* Add localized tags to parts
+* Create CoyoteCargoFreighter.cfg
+  * [x] [CoyoteCargoFreighter.cfg] v1.0.0.0
+    * [x] adds localized tags to parts
+
+### License
+
+* Update
+  * [x] Updated License: GPL-2.0 + CC BY-ND 4.0
+    * was: AllRightsReserved
+
+### Social Media Presence
+
+* Create Social Media Presence
+  * Kerbal Space Program forum
+    * [x] Create new thread/post in "Add-on Development"
+    * [x] title: [1.12.x] Coyote Cargo Freighter (CCF) - <0.3.99.0-adoption> - `<Thank you dboi88>` edition [01 Jan 2022]
+    * [x] create release post in new thread/post
+      * [x] content (readme.htm)
+    * original mod's thread/post
+      * [x] post link to new thread/post
+  * [x] CurseForge
+  * [x] Twitter
+  * [x] SpaceDock
+  * [x] Reddit post
+  * [x] Patreon post
+  * [ ] promo vid (30 sec)
+    * [ ] Youtube
+    * [ ] Twitch
+
+### Localization
+
+* Localization directory and contents
+  * Create
+    * [x] Localization/
+      * [x] <en-us.cfg>
+      * [x] [readme.md] v2.1.2.0
+      * [x] [quickstart.md] v1.0.1.1
+
+### Marketing
+
+* Create
+  * [x] HeroLogo.png
+* [x] copy/convert to HeroLogo.jpg
+
+
 * #24 - upstream - contributed by zer0Kerbal
 * #27 - 0.3.9.9 adoption - contributed by zer0Kerbal
 
