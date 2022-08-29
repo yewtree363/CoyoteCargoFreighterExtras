@@ -168,6 +168,7 @@ parts, config, agency, comms, crewed, flags, graphics, parts, resources
 >
 > ***All bundled mods are distributed under their own licenses***  
 > ***All art assets (textures, models, animations, sounds) are distributed under their own licenses***
+> *All models and configs included within the Coyote Space Industries folders are* `All Rights Reserved` [![License][LIC:0:shd]][LIC:0:url]
 
 ##### see [Notices.md][MOD:notic] for more *legal mumbo jumbo*
 
@@ -186,6 +187,13 @@ parts, config, agency, comms, crewed, flags, graphics, parts, resources
 [![Support][PAYPAL:img]][PAYPAL:url] [![Github Sponsor][GSPONS:img]][GSPONS:url] [![Patreon][PATREON:img]][PATREON:url] [![Buy zer0Kerbal a snack][BMCC:img]][BMCC:url]
 
 *and it is true.*
+
+#### how to say thank you to [dboi88][dboi88]
+
+> I spent around 500 hours creating this Mod. If you like what you see, and want to help out (or just buy me a coffee!), please consider donating to the cause, either via [PayPal ](http://paypal.me/datboi88)or [Patreon](https://www.patreon.com/dboi88)
+
+---
+
 <!-- mod links -->
 [MOD:attr]: https://zer0kerbal.github.io/CoyoteCargoFreighter/Attributions "Attribution"
 [MOD:chlog]: https://raw.githubusercontent.com/zer0Kerbal/CoyoteCargoFreighter/master/changelog.md  "Changelog"
