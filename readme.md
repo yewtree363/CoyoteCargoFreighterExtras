@@ -193,7 +193,7 @@ parts, config, agency, comms, crewed, flags, graphics, parts, resources
 
 #### how to say thank you to [dboi88][dboi88]
 
-> [dboi88][dboi88][I] spent around 500 hours creating this Mod. If you like what you see, and want to help out (or just buy [dboi88][dboi88][me] a coffee!), please consider donating to the cause, either via [PayPal ](http://paypal.me/datboi88) or [Patreon](https://www.patreon.com/dboi88)
+> [dboi88][dboi88] (~~I~~) spent around 500 hours creating this Mod. If you like what you see, and want to help out (or just buy [dboi88][dboi88] (~~me~~) a coffee!), please consider donating to the cause, either via [PayPal ](http://paypal.me/datboi88) or [Patreon](https://www.patreon.com/dboi88)
 
 ---
 
@@ -201,7 +201,7 @@ parts, config, agency, comms, crewed, flags, graphics, parts, resources
 [MOD:attr]: https://zer0kerbal.github.io/CoyoteCargoFreighter/Attributions "Attribution"
 [MOD:chlog]: https://raw.githubusercontent.com/zer0Kerbal/CoyoteCargoFreighter/master/changelog.md  "Changelog"
 [MOD:discu]: https://github.com/zer0Kerbal/CoyoteCargoFreighter/discussions "Discussions"
-[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/192742-*/ "CoyoteCargoFreighter Forum Thread"
+[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/209541-*/ "CoyoteCargoFreighter Forum Thread"
 [MOD:issue]: https://github.com/zer0Kerbal/CoyoteCargoFreighter/issues "Issues"
 [MOD:assmb]: https://zer0kerbal.github.io/CoyoteCargoFreighter/Assembly "Assembly Guide"
 [MOD:markt]: https://zer0kerbal.github.io/CoyoteCargoFreighter/Marketing "Marketing Slicks"
