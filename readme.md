@@ -61,6 +61,9 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 ### Help Wanted
 
+> * Several questions in the GitHub discussion forums need answers
+> * These beautiful parts are screaming out for custom IVA's with MAS/RPM support
+> * Customized tags (in en-us.cfg)
 > * Compatibility patch: Snacks!
 > * Compatibility patch:TAC Life Support
 > * Compatibility patches
