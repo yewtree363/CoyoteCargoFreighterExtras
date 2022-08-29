@@ -61,6 +61,8 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 ### Help Wanted
 
+> * Compatibility patch: Snacks!
+> * Compatibility patch:TAC Life Support
 > * Compatibility patches
 > * Contracts for these glorious parts
 > * Variant Textures
