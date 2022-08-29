@@ -168,7 +168,7 @@ parts, config, agency, comms, crewed, flags, graphics, parts, resources
 >
 > ***All bundled mods are distributed under their own licenses***  
 > ***All art assets (textures, models, animations, sounds) are distributed under their own licenses***
-> *All models and configs included within the Coyote Space Industries folders are* [![License][LIC:S:shd]][LIC:S:url] ![License][LIC:S:log]
+> *All models and configs included within the Coyote Space Industries folders are [![License][LIC:S:shd]][LIC:S:url] ![License][LIC:S:log]*
 
 ##### see [Notices.md][MOD:notic] for more *legal mumbo jumbo*
 
