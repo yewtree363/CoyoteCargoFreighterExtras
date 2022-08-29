@@ -94,6 +94,32 @@ Another part is `CSI Tools (CSIT)` (library addon) that adds vessel CoM balancin
 * [x] relocate part.cfg to Parts/
 * closes # - Asset Updates
 
+
+* part file names
+  * Aquarium.cfg --> ccf-aquarium
+  * CargoBay.cfg--> ccf-bay-cargo.cfg
+  * commandbridge.cfg --> ccf-bridge.cfg
+  * dockingport5m.cfg --> ccf-docking-500.cfg
+  * Engine.cfg --> ccf-engine.cfg
+  * evaprep.cfg --> ccf-bay-evaprep.cfg
+  * FreighterHull.cfg --> ccf-hull.cfg
+  * Greenhouse.cfg --> ccf-greenhouse.cfg
+  * grinder.cfg --> ccf-grinder.cfg
+  * HabCommon.cfg --> ccf-hab-common.cfg
+
+* part names
+  * CSIcommandbridge --> ccf-bridge
+  * CSIfreighterAquarium --> ccf-aquarium
+  * CSIfreighterCargoBay --> ccf-bay-cargo
+  * CSIfreighterdocking5m --> ccf-docking-500
+  * CISfreighterengine --> ccf-engine
+  * CSIfreighterevaprep --> ccf-bay-evaprep
+  * CSIfreightergreenhouse --> ccf-greenhouse
+  * CSIfreightergrinder --> ccf-grinder
+  * CSIfreighterhabcommon --> ccf-hab-common
+  * CSIfreighterhull--> ccf-hull
+
+
 ### Config 0.3.99.0
 
 * Add localized tags to parts
