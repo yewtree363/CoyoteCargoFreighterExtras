@@ -4,4 +4,4 @@
 
 
 ## Documents
-- [GPL-2.0](GPL-2.0.md)
+- [License](License.md)
