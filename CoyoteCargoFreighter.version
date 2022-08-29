@@ -1,19 +1,19 @@
 {
-	"NAME"		     : "Coyote Cargo Freighter (CCF)",
-	"URL"		 	 : "https://raw.githubusercontent.com/zer0Kerbal/CoyoteCargoFreighter/master/CoyoteCargoFreighter.version",
-	"DOWNLOAD"	     : "https://github.com/zer0Kerbal/CoyoteCargoFreighter/releases/latest",
+	"NAME"			 : "Coyote Cargo Freighter (CCF)",
+	"URL"			 : "https://raw.githubusercontent.com/zer0Kerbal/CoyoteCargoFreighter/master/CoyoteCargoFreighter.version",
+	"DOWNLOAD"		 : "https://github.com/zer0Kerbal/CoyoteCargoFreighter/releases/latest",
 	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/CoyoteCargoFreighter/master/changelog.md",
 	"GITHUB" :
 	{
-		"USERNAME"		    : "zer0Kerbal",
+		"USERNAME"	        : "zer0Kerbal",
 		"REPOSITORY"		: "CoyoteCargoFreighter",
 		"ALLOW_PRE_RELEASE" : false
 	},
 	"VERSION" :
 	{
 		"MAJOR" : 0,
-		"MINOR" : 4,
-		"PATCH" : 0,
+		"MINOR" : 3,
+		"PATCH" : 99,
 		"BUILD" : 0
 	},
 	"KSP_VERSION" :
@@ -36,7 +36,7 @@
 	},
 	"INSTALL_LOC" :
 	{
-		"NAME"      : "CoyoteCargoFreighter",
-		"DIRECTORY" : "CoyoteSpaceIndustries/CoyoteCargoFreighter"
+		"NAME" :	  "CoyoteCargoFreighter",
+		"DIRECTORY" : "Coyote Space Industries/CoyoteCargoFreighter"
 	}
 }
