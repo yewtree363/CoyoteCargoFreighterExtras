@@ -5,7 +5,7 @@ type = SPH
 size = 16.0385284,13.9085159,100.99617
 PART
 {
-	part = CSIfreighterhull_4294660484
+	part = ccf-hull_4294660484
 	partName = Part
 	pos = 0,10,14.1999989
 	attPos = 0,0,14.1999989
@@ -27,9 +27,9 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	link = CSIcommandbridge_4294604816
+	link = ccf-bridge_4294604816
 	link = CSIfreighterreartrussk_4294639884
-	link = CSIfreighterevaprep_4294651764
+	link = ccf-bay-evaprep_4294651764
 	link = CSIcutoffkontainer_4294552386
 	link = CSIcutoffkontainer_4294528070
 	link = CSIcutoffkontainer_4294527808
@@ -41,9 +41,9 @@ PART
 	link = CSIfreighterhangerbay_4294370946
 	link = CSIcutoffkontainer_4294576404
 	attN = TrussNodeB,CSIfreighterreartrussk_4294639884
-	attN = AirlockNodeB,CSIfreighterevaprep_4294651764
+	attN = AirlockNodeB,ccf-bay-evaprep_4294651764
 	attN = CargoBayNodeB,CSIfreighterhangerbay_4294370946
-	attN = CommandNodeB,CSIcommandbridge_4294604816
+	attN = CommandNodeB,ccf-bridge_4294604816
 	attN = kontainernode1,CSIcutoffkontainer_4294527556
 	attN = kontainernode2,CSIcutoffkontainer_4294527314
 	attN = kontainernode3,CSIcutoffkontainer_4294528070
@@ -375,7 +375,7 @@ PART
 }
 PART
 {
-	part = CSIcommandbridge_4294604816
+	part = ccf-bridge_4294604816
 	partName = Part
 	pos = 2.11970401,9.93239021,40.5769196
 	attPos = 0,0,0
@@ -397,7 +397,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	attN = CommandNodeA,CSIfreighterhull_4294660484
+	attN = CommandNodeA,ccf-hull_4294660484
 	EVENTS
 	{
 	}
@@ -1140,7 +1140,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	link = CISfreighterengine_4294612740
+	link = ccf-engine_4294612740
 	link = C3.Kontainer.04_4294448590
 	link = C3.Kontainer.04_4294448092
 	link = C3.Kontainer.04_4294447646
@@ -1153,8 +1153,8 @@ PART
 	attN = KontainerNode4,C3.Kontainer.04_4294446996
 	attN = KontainerNode5,C3.Kontainer.04_4294446380
 	attN = KontainerNode6,C3.Kontainer.04_4294445718
-	attN = EngineNodeA,CISfreighterengine_4294612740
-	attN = TrussNodeA,CSIfreighterhull_4294660484
+	attN = EngineNodeA,ccf-engine_4294612740
+	attN = TrussNodeA,ccf-hull_4294660484
 	EVENTS
 	{
 	}
@@ -1603,7 +1603,7 @@ PART
 }
 PART
 {
-	part = CISfreighterengine_4294612740
+	part = ccf-engine_4294612740
 	partName = Part
 	pos = -3.33819437,8.51965332,-50.9234009
 	attPos = 0,0,0
@@ -1729,7 +1729,7 @@ PART
 }
 PART
 {
-	part = CSIfreighterevaprep_4294651764
+	part = ccf-bay-evaprep_4294651764
 	partName = Part
 	pos = 3.27388954,10.2749062,-29.0097485
 	attPos = 0,0,0
@@ -1751,7 +1751,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	attN = AirlockNodeA,CSIfreighterhull_4294660484
+	attN = AirlockNodeA,ccf-hull_4294660484
 	EVENTS
 	{
 	}
@@ -2006,7 +2006,7 @@ PART
 	modCost = 300000
 	modMass = 0
 	modSize = 0,0,0
-	attN = stackNode,CSIfreighterhull_4294660484
+	attN = stackNode,ccf-hull_4294660484
 	EVENTS
 	{
 	}
@@ -2195,7 +2195,7 @@ PART
 	modCost = 14000
 	modMass = 0
 	modSize = 0,0,0
-	attN = stackNode,CSIfreighterhull_4294660484
+	attN = stackNode,ccf-hull_4294660484
 	EVENTS
 	{
 	}
@@ -2373,7 +2373,7 @@ PART
 	modCost = 600
 	modMass = 0
 	modSize = 0,0,0
-	attN = stackNode,CSIfreighterhull_4294660484
+	attN = stackNode,ccf-hull_4294660484
 	EVENTS
 	{
 	}
@@ -2551,7 +2551,7 @@ PART
 	modCost = 28480
 	modMass = 0
 	modSize = 0,0,0
-	attN = stackNode,CSIfreighterhull_4294660484
+	attN = stackNode,ccf-hull_4294660484
 	EVENTS
 	{
 	}
@@ -2729,7 +2729,7 @@ PART
 	modCost = 1600
 	modMass = 0
 	modSize = 0,0,0
-	attN = stackNode,CSIfreighterhull_4294660484
+	attN = stackNode,ccf-hull_4294660484
 	EVENTS
 	{
 	}
@@ -2907,7 +2907,7 @@ PART
 	modCost = 3520
 	modMass = 0
 	modSize = 0,0,0
-	attN = stackNode,CSIfreighterhull_4294660484
+	attN = stackNode,ccf-hull_4294660484
 	EVENTS
 	{
 	}
@@ -3085,7 +3085,7 @@ PART
 	modCost = 16000
 	modMass = 0
 	modSize = 0,0,0
-	attN = stackNode,CSIfreighterhull_4294660484
+	attN = stackNode,ccf-hull_4294660484
 	EVENTS
 	{
 	}
@@ -3263,7 +3263,7 @@ PART
 	modCost = 4000
 	modMass = 0
 	modSize = 0,0,0
-	attN = stackNode,CSIfreighterhull_4294660484
+	attN = stackNode,ccf-hull_4294660484
 	EVENTS
 	{
 	}
@@ -3441,7 +3441,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	attN = CargoBayNodeA,CSIfreighterhull_4294660484
+	attN = CargoBayNodeA,ccf-hull_4294660484
 	EVENTS
 	{
 	}
@@ -3774,7 +3774,7 @@ PART
 	modCost = 4000
 	modMass = 0
 	modSize = 0,0,0
-	attN = stackNode,CSIfreighterhull_4294660484
+	attN = stackNode,ccf-hull_4294660484
 	EVENTS
 	{
 	}
