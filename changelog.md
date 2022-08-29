@@ -105,6 +105,7 @@ Another factor is `CSI Tools (CSIT)` (library addon) that adds vessel CoM balanc
 ### Parts 0.3.99.0
 
 * Update
+  * Docking Port title and description same as Cargo Bay
   * Localization of part modules (started)
   * Linting / Organization
   * part file names
