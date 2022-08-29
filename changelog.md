@@ -10,56 +10,64 @@
 | spacedock  | (https://spacedock.info/mod/1332)                                 |
 | ckan       | CargoFreighter                                                    |
 
-## Version 0.3.99.0 - for KSP 1.12.3 [28-Aug-2022]
+## Version 0.3.99.0-adoption `<Thank you dboi88>` edition
+
+* 28 Aug 2022
+* Released for KSP 1.12.3
 
 This is part of a planned series of updates to this addon. Each update will update some of the parts and patches so that instead of one massive update I can update the addon in a more manageable way.
 
 Part of the complexity is the advanced design of this addon. The addon is designed to be as modular as possible, so that it can be used in a variety of ways.
 
-Another part is `CSI Tools (CSIT)` (library addon) that adds vessel CoM balancing which is being handled seperately.
+Another factor is `CSI Tools (CSIT)` (library addon) that adds vessel CoM balancing which is being handled seperately.
 
 ### Summary 0.3.99.0
 
 * Can now search for `ccf` or `csi` in the editor search bar to find all Coyote Cargo Freighter parts
 * Only those parts that are updated will appear in this and subsequent releases
-* `ghostparts.cfg` has been temporarily added to attempt to prevent save game spoilage
+  * Parts refreshed (initially) in this release include: ccf-bridge, ccf-aquarium, ccf-bay-cargo, ccf-docking-500, ccf-engine, ccf-bay-evaprep, ccf-greenhouse, ccf-grinder, ccf-hab-common, ccf-hull,
+* `ghostparts.cfg` has been temporarily added to attempt to prevent save game spoilage but will not be *haunting* for long
 
 ## Adoption by zer0Kerbal
 
 ### Documentation
 
 * Create
-  * [x] readme
+  * readme
   * deploy to:
-    * [x] CurseForge Description page 🤬
-    * [x] Forum Original Post 🐰
-    * [x] SpaceDock Information page 🌮
-  * [x] release notes
-  * [x] [changelog.md]
-  * [x] update /docs/
+    * CurseForge Description page 🤬
+    * Forum Original Post 🐰
+    * SpaceDock Information page 🌮
+  * release notes
+  * [changelog.md]
+  * update /docs/
+* closes #50 - Update changelog
+* closes #49 - Update release.md
+* closes #48 - Update readme.md
 
 ### GitHub Pages
 
 * Create
   * docs/
-    * [x] [`_config.yml`]
-    * [x] [404.md] v1.0.3.2
-    * [x] [Assembly.md] v1.0.0.0
-    * [x] [Attribution.md] v1.0.7.1
-    * [x] [Disclaimer.md] v1.0.7.1
-    * [x] [LegalMumboJumbo.md] v1.0.5.1
-    * [x] [Localizations.md] v1.1.7.0
-    * [x] [ManualInstallation.md] v1.1.8.0
-    * [x] [Marketing.md] v1.0.1.0
-    * [x] [Notices.md] v1.0.1.0
-    * [x] [PartsCatalog.md] v1.1.4.1
-    * [x] [Why.md] v1.1.0.0
+    * [`_config.yml`]
+    * [404.md] v1.0.3.2
+    * [Assembly.md] v1.0.0.0
+    * [Attribution.md] v1.0.7.1
+    * [Disclaimer.md] v1.0.7.1
+    * [LegalMumboJumbo.md] v1.0.5.1
+    * [Localizations.md] v1.1.7.0
+    * [ManualInstallation.md] v1.1.8.0
+    * [Marketing.md] v1.0.1.0
+    * [Notices.md] v1.0.1.0
+    * [PartsCatalog.md] v1.1.4.1
+    * [Why.md] v1.1.0.0
+* closes #67 - Create GitHub Pages
 
 ### Legal Mumbo Jumbo
 
 * Create
-  * [x] license check
-  * [x] offline documentation
+  * license check
+  * offline documentation
   * _Legal
     * screenshots and pdfs
     * adoptionLetters
@@ -69,184 +77,213 @@ Another part is `CSI Tools (CSIT)` (library addon) that adds vessel CoM balancin
   * docs/LegalMumboJumbo
     * [License.md]
     * FORUM-##.png's
-      * [x] public documentation
-  * [x] GitHub: :octocat:
-    * [x] LICENSE
-    * [x] [license].txt
-  * [x] CurseForge
-  * [x] SpaceDock
-  * [x] CKAN
+      * public documentation
+  * GitHub: :octocat:
+    * LICENSE
+    * [license].txt
+  * CurseForge
+  * SpaceDock
+  * CKAN
 
 ### Part Asset Updates 0.3.99.0
 
-* [x] create Assets/ folder
-* [x] convert from mesh to MODEL
-* [x] rename
-  * [x] models to unique names
-  * [x] textures to unique names
-* [x] update
-  * [x] model pointers (.png et al to .dds)
-  * [x] model texture pointers to new names
-* [x] relocate assets to Assets/
-* [x] eliminate
-  * [x] duplicate textures
-  * [x] duplicate models
-* [x] relocate part.cfg to Parts/
-* closes # - Asset Updates
+* create Assets/ folder
+* convert from mesh to MODEL
+* rename
+  * models to unique names
+  * textures to unique names
+* update
+  * model pointers (.png et al to .dds)
+  * model texture pointers to new names
+* relocate assets to Assets/
+* eliminate
+  * duplicate textures
+  * duplicate models
+* relocate part.cfg to Parts/
+  * closes #70 - Part Asset Updates
 
+### Parts 0.3.99.0
 
-* part file names
-  * Aquarium.cfg --> ccf-aquarium
-  * CargoBay.cfg--> ccf-bay-cargo.cfg
-  * commandbridge.cfg --> ccf-bridge.cfg
-  * dockingport5m.cfg --> ccf-docking-500.cfg
-  * Engine.cfg --> ccf-engine.cfg
-  * evaprep.cfg --> ccf-bay-evaprep.cfg
-  * FreighterHull.cfg --> ccf-hull.cfg
-  * Greenhouse.cfg --> ccf-greenhouse.cfg
-  * grinder.cfg --> ccf-grinder.cfg
-  * HabCommon.cfg --> ccf-hab-common.cfg
-
-* part names
-  * CSIcommandbridge --> ccf-bridge
-  * CSIfreighterAquarium --> ccf-aquarium
-  * CSIfreighterCargoBay --> ccf-bay-cargo
-  * CSIfreighterdocking5m --> ccf-docking-500
-  * CISfreighterengine --> ccf-engine
-  * CSIfreighterevaprep --> ccf-bay-evaprep
-  * CSIfreightergreenhouse --> ccf-greenhouse
-  * CSIfreightergrinder --> ccf-grinder
-  * CSIfreighterhabcommon --> ccf-hab-common
-  * CSIfreighterhull--> ccf-hull
-
+* Update
+  * Localization of part modules (started)
+  * Linting / Organization
+  * part file names
+    * Aquarium.cfg --> ccf-aquarium
+    * CargoBay.cfg--> ccf-bay-cargo.cfg
+    * commandbridge.cfg --> ccf-bridge.cfg
+    * dockingport5m.cfg --> ccf-docking-500.cfg
+    * Engine.cfg --> ccf-engine.cfg
+    * evaprep.cfg --> ccf-bay-evaprep.cfg
+    * FreighterHull.cfg --> ccf-hull.cfg
+    * Greenhouse.cfg --> ccf-greenhouse.cfg
+    * grinder.cfg --> ccf-grinder.cfg
+    * HabCommon.cfg --> ccf-hab-common.cfg
+  * part names
+    * CSIcommandbridge --> ccf-bridge
+    * CSIfreighterAquarium --> ccf-aquarium
+    * CSIfreighterCargoBay --> ccf-bay-cargo
+    * CSIfreighterdocking5m --> ccf-docking-500
+    * CISfreighterengine --> ccf-engine
+    * CSIfreighterevaprep --> ccf-bay-evaprep
+    * CSIfreightergreenhouse --> ccf-greenhouse
+    * CSIfreightergrinder --> ccf-grinder
+    * CSIfreighterhabcommon --> ccf-hab-common
+    * CSIfreighterhull--> ccf-hull
+* closes #40 - Check Dependencies
 
 ### Config 0.3.99.0
 
 * Add localized tags to parts
-* Create CoyoteCargoFreighter.cfg
-  * [x] [CoyoteCargoFreighter.cfg] v1.0.0.0
-    * [x] adds localized tags to parts
+* Create
+  * <ghostparts.cfg> - will not be haunting for long
+  * CoyoteCargoFreighter.cfg
+    * <CoyoteCargoFreighter.cfg> v1.0.0.0
+      * adds localized tags to parts
+* closes #71 - Create `<CoyoteCargoFreighter.cfg>`
 
 ### License
 
 * Update
-  * [x] Updated License: GPL-2.0 + CC BY-ND 4.0
+  * Updated License: GPL-2.0 + CC BY-ND 4.0
     * was: AllRightsReserved
+* closes #72 - Update License
+
+### Code 0.3.99.0
+
+* Split code out
+  * into CSITools  
+* closes #51 - Split mod in twain
 
 ### Social Media Presence
 
 * Create Social Media Presence
   * Kerbal Space Program forum
-    * [x] Create new thread/post in "Add-on Development"
-    * [x] title: [1.12.x] Coyote Cargo Freighter (CCF) - <0.3.99.0-adoption> - `<Thank you dboi88>` edition [01 Jan 2022]
-    * [x] create release post in new thread/post
-      * [x] content (readme.htm)
+    * Create new thread/post in "Add-on Development"
+    * title: [1.12.x] Coyote Cargo Freighter (CCF) - <0.3.99.0-adoption> - `<Thank you dboi88>` edition [01 Jan 2022]
+    * create release post in new thread/post
+      * content (readme.htm)
     * original mod's thread/post
-      * [x] post link to new thread/post
-  * [x] CurseForge
-  * [x] Twitter
-  * [x] SpaceDock
-  * [x] Reddit post
-  * [x] Patreon post
-  * [ ] promo vid (30 sec)
-    * [ ] Youtube
-    * [ ] Twitch
+      * post link to new thread/post
+  * CurseForge
+  * Twitter
+  * SpaceDock
+  * Reddit post
+  * Patreon post
+* closes #39 - Update images
 
 ### Localization
 
 * Localization directory and contents
   * Create
-    * [x] Localization/
-      * [x] <en-us.cfg>
-      * [x] [readme.md] v2.1.2.0
-      * [x] [quickstart.md] v1.0.1.1
+    * Localization/
+      * <en-us.cfg>
+      * [readme.md] v2.1.2.0
+      * [quickstart.md] v1.0.1.1
+* closes #69 - Create Localization directory and contents
+* closes #92 - Part Localization
+* closes #75 - English <us-en.cfg>
+* updates #74 - Localization - Master
 
 ### Marketing
 
 * Create
-  * [x] HeroLogo.png
-* [x] copy/convert to HeroLogo.jpg
+  * HeroLogo.png
+* copy/convert to HeroLogo.jpg
+* closes #68 - Create HeroLogo.png
 
+### Compatibility 0.3.99.0
 
-* #24 - upstream - contributed by zer0Kerbal
-* #27 - 0.3.9.9 adoption - contributed by zer0Kerbal
+* Linting
+* Add
+  * <SimpleConstruction.cfg> 1.1.0.0
+    * Add SimpleConstruction! support
+    * [MetalOre] --> [Ore] (shouldn't need any other change)
+    * closes #60 - Add SimpleConstruction! support
+    * closes #55 - SimpleConstruction! configs
+  * <CSITools.cfg> v1.0.0.0
+    * move all CSI part modules into it
+    * updates #99 - [CSITools.cfg]
+  * <USILifeSupport.cfg> v1.0.0.0
+    * move all USILifeSupport part modules into it
+    * updates #100 - USILifeSupport
+  * <USI-Karbonite.cfg> v1.0.0.0
+    * move all USI-Karbonite part modules into it
+    * updates #101 - USI-Karbonite
+  * <Hanger.cfg> v1.0.0.0
+    * move all Hanger part modules into it
+    * updates #102 - Hanger
+  * <Firespitter.cfg> v1.0.0.0
+    * move all Firespitter part modules into it
+    * updates #103 - Firespitter
+* Update
+  * <ConnectedLivingSpaces.cfg> v1.0.2.0
+    * Added
+      * :FOR[CoyoteCargoFreighter]
+      * header
+    * renamed from <CLS.cfg>
+    * thank you - @BararQ
+    * closes #35 - CLS.cfg CSIfreightersmallrecycler missing
+    * closes #36 - CLS.cfg referencing wrong module.
+  * <ExtraplanetaryLaunchpads.cfg> v1.1.1.0
+    * Added
+      * ccf-greenhouse patch
+      * :FOR[CoyoteCargoFreighter]
+      * header
+    * split ELWorkshop into groups based upon [ProductivityFactor]
+  * <Workshop.cfg> v1.0.1.0
+    * renamed from <OSE.cfg>
+    * Added
+      * :NEEDS[Workshop]
+      * :FOR[CoyoteCargoFreighter]
+      * header
+    * closes #34 - OSE.cfg missing opening { and closing } (braces)
+    * thank you - @BararQ
+  * <USI-ModularKolonizationSystem.cfg> v1.0.0.0
+    * renamed from <MKS.cfg]>
+    * closes #31 - MKS.cfg Errors in ratios. replaced `0.0.` with just `0.`
+    * thank you - @BararQ
+  * <USIEdits.cfg> v1.0.1.0
+    * Added
+      * :NEEDS[UmbraSpaceIndustries/Kontainers]
+      * :FOR[CoyoteCargoFreighter]
+      * header
+  * <KISBay.cfg>
+    * slot size was set to 100, needs to be 50
+    * closes #33 - KISBay.cfg slot size was set to 100, needs to be 50
+    * thank you - @BararQ
+  * <SmallKISKontainer.cfg>
+    * slot size was set to 100, needs to be 50
+    * closes #32 - SmallKISKontainer.cfg slot size was set to 100, needs to be 50
+    * thank you - @BararQ
+  * <KerbalInventorySystem.cfg> v1.0.1.0
+    * renamed from <KIS.cfg>
+    * Added
+      * :FOR[CoyoteCargoFreighter]
+      * header
+    * closes #58 - KIS.cfg slot size set to 100, please set to 50.
+    * thank you - @BararQ
+  * <ExtraplanetaryLaunchpads.cfg> 1.1.1.0
+    * renamed from <EPL.cfg>
+    * Added
+      * :FOR[CoyoteCargoFreighter]
+      * header
+    * updated
+      * :NEEDS[Launchpad,!SimpleConstruction]
+      * EX --> EL
+    * closes #59 - EPL.cfg update
 
-# [ConnectedLivingSpaces.cfg] 1.0.2.0
-* header/footer
-* closes #35 - CSIfreightersmallrecycler missing. 
-* closes #36 - CLS.cfg referencing wrong module.
-- thank you - @BararQ
+### Status 0.3.99.0
 
-# [OSE.cfg] 1.0.0.0
-* renamed to Workshop.cfg
-
-# [Workshop.cfg] 1.0.1.0
-* renamed to OSE.cfg
-* header/footer
-* closes #34 - OSE.cfg missing opening { and closing } (braces)
-- thank you - @BararQ
-
-renamed to more descriptive name
-# [MKS.cfg] 1.0.0.0
-* renamed to USI-ModularKolonizationSystem.cfg
-
-
-# [USI-ModularKolonizationSystem.cfg] 1.0.1.0
-* renamed from MKS.cfg
-* header/footer
-* added :FOR[CoyoteCargoFreighter]
-* closes #31 - MKS.cfg Errors in ratios. replaced `0.0.` with just `0.`
-- thank you - @BararQ
-
-# [USIEdits.cfg] 1.0.1.0
-* header/footer
-* linting
-* added :NEEDS[UmbraSpaceIndustries/Kontainers]
-* added :FOR[CoyoteCargoFreighter]
-
-
-# [KISBay.cfg]
-* slot size was set to 100, needs to be 50 #32
-* closes #33 - KISBay.cfg slot size was set to 100, needs to be 50
-- thank you - @BararQ
-
-# [SmallKISKontainer.cfg]
-* slot size was set to 100, needs to be 50 #32
-* closes #32 - SmallKISKontainer.cfg slot size was set to 100, needs to be 50
-- thank you - @BararQ
-
-renamed to more descriptive name
-# [KIS.cfg] 1.0.0.0
-* renamed to KerbalInventorySystem.cfg
-
-# [KerbalInventorySystem.cfg] 1.0.1.0
-* renamed from KIS.cfg
-* header/footer
-* added :FOR[CoyoteCargoFreighter]
-* closes #58 - KIS.cfg slot size set to 100, please set to 50.
-- thank you - @BararQ
-
-
-# [ExtraplanetaryLaunchpads.cfg] 1.0.0.0
-* renamed to ExtraplanetaryLaunchpads.cfg
-
-# [ExtraplanetaryLaunchpads.cfg] 1.0.1.0
-* renamed from KIS.cfg
-* header/footer
-* EX --> EL
-* added :FOR[CoyoteCargoFreighter]
-* updated :NEEDS[Launchpad,!SimpleConstruction]
-* closes #59 - EPL.cfg update
-
-# [SimpleConstruction.cfg] 1.0.0.0
-* Add SimpleConstruction! support
-* [MetalOre] --> [Ore] (should need any other change)
-* closes #60 - Add SimpleConstruction!
-
-@PART[OSE_Workshop]:NEEDS[Launchpad]
-
-ExtraplanetaryLaunchpads
-SimpleConstruction
+* Issues
+  * closes #64 - Coyote Cargo Freighter (CCF) 0.3.99.0-adoption `<Thank you dboi88>` edition
+  * closes #65 - 0.3.99.0 Create Legal Mumbo Jumbo
+  * closes #66 - 0.3.99.0 Create Social Media Presence
+  * closes #73 - 0.3.99.0 Create Documentation
+* PR's
+  * closes #24 - upstream - contributed by zer0Kerbal
+  * closes #27 - 0.3.9.9 adoption - contributed by zer0Kerbal
+* Duplicate
+  * closes #62 - MoarKerbal support
 
 ---
 
