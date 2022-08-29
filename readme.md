@@ -21,7 +21,7 @@ Coyote Cargo Freighter by Coyote Space Industries (CSI) is a massive parts pack 
 
 adopted with *express* permission and brought to you by *KerbSimpleCo*
 
-<img src="https://raw.githubusercontent.com/zer0Kerbal/MOD-NAME/master/img/HeroLogo_1920x1920.png" alt="MOD-NAME Hero" width="50%" height="50%">
+<img src="https://raw.githubusercontent.com/zer0Kerbal/CoyoteCargoFreighter/master/img/HeroLogo_1920x1920.png" alt="CoyoteCargoFreighter Hero" width="50%" height="50%">
 
 ---
 
@@ -173,23 +173,69 @@ parts, config, agency, comms, crewed, flags, graphics, parts, resources
 
 #### Original (0) - Author: [dboi88][dboi88]
 
-> Forum: [Thread][MOD:0:thread] - Download: [Dropbox][MOD:0:dnload] - Source: [Dropbox][MOD:0:source]  
+> Forum: [Thread][MOD:0:thread] - Download: [CurseForge][MOD:0:dnload] - Source: [GitHub][MOD:0:source]  
 > License: [![License][LIC:0:shd]][LIC:0:url] ![License][LIC:0:log]
 
 ---
 
-### License
-#### aka Legal Mumbo Jumbo
-Source: [GitHub][MOD:github:repo]  
-License: ![License MIT][shield:license] ![][LOGO:MIT]	
-> *** All bundled mods are distributed under their own licenses***  
-> *** All art assets (textures, models, animations) are distributed under their own licenses***   
-### Original
-Author: [dboi88][dboi88]  
-[Thread][MOD:original:thread]  
-[Download][MOD:original:download]  
-Source: [GitHub][MOD:original:source]  
-License: ![License MIT][shield:license:original] ![][LOGO:mit] 
+### DONATIONS: How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]  
+
+> ***Completely voluntary, absolutely amazing, and really does help me out a lot!***
+> quote from <a href="https://forum.kerbalspaceprogram.com/index.php?/profile/32393-*/"><img border="0" alt="cybutek" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2020_06/kappa-kerbal-anarchy.thumb.png.673a2f6f7b36cc60a35c24efef217246.png" width="25px" height="25px"> cybutek</a> creator of <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/17833-130-*/" alt="Kerbal Engineer Redux (KER)"> Kerbal Engineer</a>
+
+[![Support][PAYPAL:img]][PAYPAL:url] [![Github Sponsor][GSPONS:img]][GSPONS:url] [![Patreon][PATREON:img]][PATREON:url] [![Buy zer0Kerbal a snack][BMCC:img]][BMCC:url]
+
+*and it is true.*
+<!-- mod links -->
+[MOD:attr]: https://zer0kerbal.github.io/CoyoteCargoFreighter/Attributions "Attribution"
+[MOD:chlog]: https://raw.githubusercontent.com/zer0Kerbal/CoyoteCargoFreighter/master/changelog.md  "Changelog"
+[MOD:contr]: https://github.com/zer0Kerbal/.github/blob/master/.github/CONTRIBUTING.md "Contributing"
+[MOD:discu]: https://github.com/zer0Kerbal/CoyoteCargoFreighter/discussions "Discussions"
+[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/192742-*/ "CoyoteCargoFreighter Forum Thread"
+[MOD:issue]: https://github.com/zer0Kerbal/CoyoteCargoFreighter/issues "Issues"
+[MOD:licns]: https://github.com/zer0Kerbal/CoyoteCargoFreighter/blob/master/LICENSE "Github License"
+[MOD:markt]: https://zer0kerbal.github.io/CoyoteCargoFreighter/Marketing "Marketing Slicks"
+[MOD:notic]: https://zer0kerbal.github.io/CoyoteCargoFreighter/Notices "Notices"
+[MOD:parts]: https://zer0kerbal.github.io/CoyoteCargoFreighter/PartsCatalog "Parts Catalog"
+[MOD:pages]: https://zer0kerbal.github.io/CoyoteCargoFreighter "GitHub Pages"
+
+<!--- mod -->
+[MOD:shd:latest]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/CoyoteCargoFreighter/master/json/mod.json
+
+[MOD:pages:shd]: https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=181717&logo=github "GitHub IO"
+
+<!--- mod provenance -->
+[MOD:1:dnload]: https://www.dropbox.com/s/85og3xdhark7com/CoyoteCargoFreighter5.rar "Dropbox"
+[MOD:1:source]: https://www.dropbox.com/s/85og3xdhark7com/CoyoteCargoFreighter5.rar "Dropbox"
+[MOD:1:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/159615-*/ "KSP Forum"
+
+[MOD:0:dnload]: https://www.curseforge.com/kerbal/ksp-mods/coyotecargofreighter "CurseForge"
+[MOD:0:source]: https://github.com/dboi88/CSI-Cargo-Freighter "GitHub"
+[MOD:0:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/64520-*/ "KSP Forum"
+
+<!--- license provenance -->
+[LIC:1:url]: https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC BY-NC-SA 4.0"
+[LIC:1:log]: https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 4.0"
+[LIC:1:shd]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-ef9421?labelColor=black&style=plastic&logoColor=ef9421&logo=creativecommons "CC BY-NC-SA 4.0"
+
+[LIC:0:url]: https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC BY-NC-SA 4.0"
+[LIC:0:log]: https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 4.0"
+[LIC:0:shd]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-ef9421?labelColor=black&style=plastic&logoColor=ef9421&logo=creativecommons "CC BY-NC-SA 4.0"
+
+[LIC:url]: https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC BY-NC-SA 4.0"
+[LIC:log]: https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 4.0"
+[LIC:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/CoyoteCargoFreighter/master/json/license.json "CC BY-NC-SA 4.0"
+
+<!--- GPL-2.0
+[LIC:0:url]: https://www.gnu.org/licenses/gpl-2.0-standalone.html "GPL-2.0"
+[LIC:0:log]: https://i.postimg.cc/9FrwMgK6/GPL-17x17.png "GPL-2.0"
+[LIC:0:shd]:  https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/CoyoteCargoFreighter/master/json/license.json
+https://img.shields.io/badge/License-GPL--2.0-A42E2B?style=plastic&labelColor=white&logoColor=A42E2B&logo=gnu "GPL-2.0"
+-->
+
+<!-- All Rights Reserved
+[LIC:1:url]: https://en.wikipedia.org/wiki/All_rights_reserved "All Rights Reserved"
+[LIC:1:shd]: https://img.shields.io/badge/License-All%20Rights%20Reserved-white?labelColor=black&style=plastic "All Rights Reserved" -->
 
 
 [MOD:forum]: 	https://forum.kerbalspaceprogram.com/index.php?/topic/159615-*/
