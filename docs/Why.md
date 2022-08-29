@@ -2,7 +2,6 @@
 permalink: /Why.html
 title: Why
 description: the flat-pack Kiea instructions, written in Kerbalese, unusally present
-# layout: bare
 tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
