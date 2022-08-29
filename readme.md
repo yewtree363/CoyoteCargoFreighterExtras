@@ -168,7 +168,7 @@ parts, config, agency, comms, crewed, flags, graphics, parts, resources
 >
 > ***All bundled mods are distributed under their own licenses***  
 > ***All art assets (textures, models, animations, sounds) are distributed under their own licenses***
-> *All models and configs included within the Coyote Space Industries folders are* `All Rights Reserved` [![License][LIC:0:shd]][LIC:0:url]
+> *All models and configs included within the Coyote Space Industries folders are* [![License][LIC:S:shd]][LIC:S:url] ![License][LIC:S:log]
 
 ##### see [Notices.md][MOD:notic] for more *legal mumbo jumbo*
 
@@ -220,9 +220,9 @@ parts, config, agency, comms, crewed, flags, graphics, parts, resources
 [LIC:0:url]: https://en.wikipedia.org/wiki/All_rights_reserved "All Rights Reserved"
 [LIC:0:shd]: https://img.shields.io/badge/License-All%20Rights%20Reserved-white?labelColor=black&style=plastic "All Rights Reserved" -->
 
-[LIC:url]: https://creativecommons.org/licenses/by-nd/4.0/ "CC BY-ND 4.0"
-[LIC:log]: https://licensebuttons.net/i/l/by-nd/transparent/33/66/99/76x22.png "CC BY-ND 4.0"
-[LIC:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/CoyoteCargoFreighter/master/json/license.json "CC BY-ND 4.0"
+[LIC:S:url]: https://creativecommons.org/licenses/by-nd/4.0/ "CC BY-ND 4.0"
+[LIC:S:log]: https://licensebuttons.net/i/l/by-nd/transparent/33/66/99/76x22.png "CC BY-ND 4.0"
+[LIC:S:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/CoyoteCargoFreighter/master/json/license.json "CC BY-ND 4.0"
 
 <!--- GPL-2.0
 [LIC:0:url]: https://www.gnu.org/licenses/gpl-2.0-standalone.html "GPL-2.0"
