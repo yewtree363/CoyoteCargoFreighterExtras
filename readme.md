@@ -1,5 +1,5 @@
 <!-- readme.md v1.6.9.6
-Coyote Cargo Freighter (CCF) 
+Coyote Cargo Freighter (CCF)
 created: 17 Jul 2017
 updated: 27 Aug 2022 -->
 
