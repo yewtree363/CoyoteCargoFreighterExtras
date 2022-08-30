@@ -1,101 +1,63 @@
 ---
 permalink: /Attributions.html
 title: Attributions
-description: The Opening Credits, and the closing credits, plus the first of two (or is three) end credit scenes
-tags: attributions,thank-you,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
 <!--
-Attributions.md v1.0.7.1
+Attributions.md v1.0.1.0
 Coyote Cargo Freighter (CCF)
 created: 01 Feb 2022
-updated: 03 Jun 2022
+updated: 01 Feb 2022
 -->
 
+[Home](https://zer0kerbal.github.io/CoyoteCargoFreighter)
+
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
-<i class="fa fa-gear fa-spin fa-3x" style="color: firebrick"></i>
+<i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i>
 
-# Coyote Cargo Freighter (CCF)
 
-[Home](./index.md)
+Mod by dboi88
 
-## Attribution
+Grand Tour Poster by:
+![image](https://user-images.githubusercontent.com/39887717/150701488-589eb1f6-d251-41f8-ae89-1ebce919120a.png)
+By [DiscoSlelge](https://forum.kerbalspaceprogram.com/index.php?/profile/114099-discoslelge/)
+© 2017 - 2022 discoslelge
 
-### Credits
-[CCF]: https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/ "Coyote Cargo Freighter"
+![deviant.art/discoslelge](https://www.deviantart.com/discoslelge/art/Space-grand-tour-KSP-718778879)
+![space_grand_tour__ksp__by_discoslelge](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5d3a6760-d40c-49ba-81eb-0113772855c6/dbvxxbz-93a81c8e-2fb2-4b00-85f6-f1002f3fe7ce.png)
 
-[dboi88]: https://forum.kerbalspaceprogram.com/index.php?/profile/150676-*/ "dboi88"
-<ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/150676-*/"><img border="0" alt="dboi88" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2017_01/engineer.jpg.8d52eeafe7adc643fd39c5033390efd2.thumb.jpg.7e73d828ccd563d0dd450a24e5897379.jpg" width="50" height="50" > dboi88</a> for creating <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/" alt="Coyote Cargo Freighter(CCF)">Coyote Cargo Freighter(CCF)</a>!</li>
-  <li><i>Thank you to everyone who gave feedback! It's very important for me and highly appreciated.</i></li>
-</ul>
+https://forum.kerbalspaceprogram.com/index.php?/topic/15187-ksp-fan-art-mkii/&do=findComment&comment=3078132
 
-### Flag(s)
+![image](https://user-images.githubusercontent.com/39887717/150701799-5f8311d9-d79b-4125-b401-010498af2b41.png)
 
-<ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/"><img border="0" alt="zer0Kerbal" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_08/free-clipart-hithhikers-guide-14.thumb.jpg.05fc7d1bdc37ce2bfca8923bf1e97303.jpg" width="50" height="50" > zer0Kerbal</a></li>
-</ul>
+# Attribution
 
-### Agency
+## Flag
 
-<ul>
-  <li><a href="(https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/)"><img border="0" alt="zer0Kerbal" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_08/free-clipart-hithhikers-guide-14.thumb.jpg.05fc7d1bdc37ce2bfca8923bf1e97303.jpg" width="50" height="50" > zer0Kerbal</a></li>
-</ul>
+## Agency
+
+## Credits
+
+* taniwha and skykooler for [ExtraplanetaryLaunchpads](https://forum.kerbalspaceprogram.com/threads/59545).
+* sarbian for [ModuleManager](https://forum.kerbalspaceprogram.com/threads/55219).
+* cybutek for [KSP-AVC](https://forum.kerbalspaceprogram.com/threads/79745).
+* RoverDude for [Community Resource Pack](https://forum.kerbalspaceprogram.com/index.php?/topic/83007-113-community-resource-pack-054-new-resources/).
+
+**Thanks to everyone who gave feedback! It's very important for me and highly appreciated.**
 
 ### Special Thanks
 
-<ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/70516-captainkipard/"><img border="0" alt="Captain Kipard" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_12_2015/itsame.png.3227b08e54fc9e3eaa0c6c2ad8e9ad07.thumb.png.5d3a3eb0344a23048ea58826e47b9781.png" width="50" height="50" > Captain Kipard</a> for the <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/85372-*/"> Mod Development Links Compilation</a> and other tutorials.</li>
-  <li>Squad, for making such a great game!</li>
-  <li>Everyone else who made modding tutorials.</li>
-</ul>
+* [@RealGecko](https://forum.kerbalspaceprogram.com/index.php?/profile/162682-realgecko/), [@Ericwi](https://forum.kerbalspaceprogram.com/index.php?/profile/152716-ericwi/), @maculator, @taniwha, @Eleusis La Arwall, @Badsector, @cy-one for their contributions.
+* [@MatterBeam](https://forum.kerbalspaceprogram.com/index.php?/profile/133334-matterbeam/) for creating this cool mod.
 
-### Translations
+* Cpt. Kipard for the [Mod Development Links Compilation](https://forum.kerbalspaceprogram.com/threads/94638) and other tutorials.
 
-<ul>
-  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png " alt="English" style="zoom:150%;" /> English</li>
-  <li><small>Additions and corrections welcome!</small></li>
-</ul>
-
-### Art Asset(s)
-
-* Flags
+* Everyone else who made modding tutorials.
 
 ### Testing and Support
 
 <ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/133828-eightiesboi/"><img border="0" alt="eightiesboi" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_01/happy_velociraptor_dinosaur_greeting_cards-r918b99ab65894a198682f360e419773a_xvuak_8byvr_512.thumb.jpg.00c28897eef8a91ee74f6cb59a9bbb5f.jpg" width="50" height="50" > eightiesboi</a></li>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/66411-zelda/"><img border="0" alt="Zelda" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2019_07/LoZ_RGB_960x960.thumb.jpg.32a815400e819b11482764bdea71373c.jpg" width="50" height="50" > Zelda</a></li>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/133828-eightiesboi/"><img border="0" alt="eightiesboi" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_01/happy_velociraptor_dinosaur_greeting_cards-r918b99ab65894a198682f360e419773a_xvuak_8byvr_512.thumb.jpg.00c28897eef8a91ee74f6cb59a9bbb5f.jpg" width="100" height="100" > eightiesboi</a></li>
 </ul>
 
-<!-- links -->
-
-[CCF]: https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/ "Coyote Cargo Freighter"
-
-[dboi88]: https://forum.kerbalspaceprogram.com/index.php?/profile/150676-*/ "dboi88"
-[cptkipard]: https://forum.kerbalspaceprogram.com/index.php?/profile/70516-*/ "Captain Kipard"
-[zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
-
-<!-- Localization -->
-[lreadme]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/readme.md "Localization Readme"
-[qstart]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/quickstart.md "Quickstart"
-
-[EN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png "English"  
-[BR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/BR.png "Português Brasil"
-[CN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/CH.png "中文"  
-[DE]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/DE.png "Deutsch"  
-[ES]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/ES.png "Español"  
-[FR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/FR.png "Français"  
-[IT]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/IT.png "Italiano"  
-[JA]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/JA.png "日本語"  
-[KO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/KO.png "한국어"  
-[MX]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/MX.png "Mexicano Español"  
-[NL]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/NL.png "Dutch"  
-[NO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/NO.png "Norsk"
-[PO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/PO.png "Polski"  
-[RU]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png "Русский"  
-[SW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/SW.png "Svenska"  
-[TR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/TR.png "Türk"  
-[TW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/TW.png "国语"
-
-<!-- this file CC BY-ND 4.0 by zer0Kerbal -->
+<!-- this file CC BY-NC-ND 3.0 Unported by zer0Kerbal -->
