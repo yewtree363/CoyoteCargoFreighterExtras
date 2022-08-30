@@ -61,6 +61,9 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 ### Help Wanted
 
+> * Several questions in the GitHub discussion forums need answers
+> * These beautiful parts are screaming out for custom IVA's with MAS/RPM support
+> * Customized tags (in en-us.cfg)
 > * Compatibility patch: Snacks!
 > * Compatibility patch:TAC Life Support
 > * Compatibility patches
@@ -193,11 +196,9 @@ parts, config, agency, comms, crewed, flags, graphics, parts, resources
 
 *and it is true.*
 
-#### how to say thank you to [dboi88][dboi88]
+#### please say thank you to [dboi88][dboi88]
 
 > [dboi88][dboi88] (~~I~~) spent around 500 hours creating this Mod. If you like what you see, and want to help out (or just buy [dboi88][dboi88] (~~me~~) a coffee!), please consider donating to the cause, either via [PayPal ](http://paypal.me/datboi88) or [Patreon](https://www.patreon.com/dboi88)
-
----
 
 <!-- mod links -->
 [MOD:attr]: https://zer0kerbal.github.io/CoyoteCargoFreighter/Attributions "Attribution"
