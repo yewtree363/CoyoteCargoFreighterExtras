@@ -44,6 +44,7 @@ Another factor is `CSI Tools (CSIT)` (library addon) that adds vessel CoM balanc
 * closes #50 - Update changelog
 * closes #49 - Update release.md
 * closes #48 - Update readme.md
+* closes #26 - # folder restructure
 
 ### GitHub Pages
 
@@ -100,7 +101,10 @@ Another factor is `CSI Tools (CSIT)` (library addon) that adds vessel CoM balanc
   * duplicate textures
   * duplicate models
 * relocate part.cfg to Parts/
-  * closes #70 - Part Asset Updates
+* Add
+  * DRAG_CUBE
+  * thumbs
+* closes #70 - Part Asset Updates
 
 ### Parts 0.3.99.0
 
@@ -284,7 +288,11 @@ Another factor is `CSI Tools (CSIT)` (library addon) that adds vessel CoM balanc
   * closes #24 - upstream - contributed by zer0Kerbal
   * closes #27 - 0.3.9.9 adoption - contributed by zer0Kerbal
 * Duplicate
-  * closes #62 - MoarKerbal support
+  * closes #6 - Adoption - Legal MumboJumbo
+  * closes #5 - Adoption - Social
+  * closes #4 - Adoption - Documentation
+  * closes #3 - Adoption - Repo
+  * closes #62 - MoarKerbal support  * closes #25 - Adoption
 
 ---
 
