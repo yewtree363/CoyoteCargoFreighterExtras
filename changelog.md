@@ -19,7 +19,7 @@ This is part of a planned series of updates to this addon. Each update will upda
 
 Part of the complexity is the advanced design of this addon. The addon is designed to be as modular as possible, so that it can be used in a variety of ways.
 
-Another factor is `CSI Tools (CSIT)` (library addon) that adds vessel CoM balancing which is being handled seperately.
+Another factor is `CSI Tools (CSIT)` (library addon) that adds vessel CoM balancing which is being handled separately.
 
 ### Summary 0.3.99.0
 
