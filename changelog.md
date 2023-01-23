@@ -10,6 +10,32 @@
 | spacedock  | (https://spacedock.info/mod/1332)                                 |
 | ckan       | CargoFreighter                                                    |
 
+## Version 0.3.99.1-adoption `<Thank you dboi88>` edition
+
+* Released
+  * 23 Jan 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+This is part of a planned series of updates to this addon. Each update will update some of the parts and patches so that instead of one massive update I can update the addon in a more manageable way.
+
+Part of the complexity is the advanced design of this addon. The addon is designed to be as modular as possible, so that it can be used in a variety of ways.
+
+Another factor is `CSI Tools (CSIT)` (library addon) that adds vessel CoM balancing which is being handled separately.
+
+### Summary 0.3.99.0
+
+* Can now search for `ccf` or `csi` in the editor search bar to find all Coyote Cargo Freighter parts
+* Only those parts that are updated will appear in this and subsequent releases
+  * Parts refreshed (initially) in this release include: ccf-bridge, ccf-aquarium, ccf-bay-cargo, ccf-docking-500, ccf-engine, ccf-bay-evaprep, ccf-greenhouse, ccf-grinder, ccf-hab-common, ccf-hull,
+* `ghostparts.cfg` has been temporarily added to attempt to prevent save game spoilage but will not be *haunting* for long
+
+### Status 0.3.99.1
+
+* Issues
+
+---
+
 ## Version 0.3.99.0-adoption `<Thank you dboi88>` edition
 
 * 28 Aug 2022
