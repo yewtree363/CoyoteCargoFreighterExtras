@@ -47,7 +47,7 @@ based upon work by LisiasT -->
 
 Other trademarks and registered trademarks are the property of the respective trademark holders.
 
-© 2011-2022 zer0Kerbal™
+© 2011-2023 zer0Kerbal™
 
 [dboi88]: https://forum.kerbalspaceprogram.com/index.php?/profile/150676-*/ "dboi88"
 
