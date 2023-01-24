@@ -2,7 +2,7 @@
 
 | modName    | Coyote Cargo Freighter (CCF)                                      |
 | ---------- | ----------------------------------------------------------------- |
-| license    | CC-BY-ND-3.0                                                      |
+| license    | GPL-2.0 + CC-BY-ND-3.0                                            |
 | author     | dboi88 and zer0Kerbal                                             |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/209541-*/) |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/CoyoteCargoFreighter)   |
@@ -17,7 +17,7 @@
   * for Kerbal Space Program 1.12.5
   * by [zer0Kerbal](https://github.com/zer0Kerbal)
 
-This is part of a planned series of updates to this addon. Each update will update some of the parts and patches so that instead of one massive update I can update the addon in a more manageable way.
+* This release is in a series of updates to this addon. Each update will update some of the parts and patches so that this addon can be updated in a more manageable manner instead of one massive update.
 
 Part of the complexity is the advanced design of this addon. The addon is designed to be as modular as possible, so that it can be used in a variety of ways.
 
@@ -26,24 +26,45 @@ Another factor is `CSI Tools (CSIT)` (library addon) that adds vessel CoM balanc
 ### Summary 0.3.99.1
 
 * Can now search for `ccf` or `csi` in the editor search bar to find all Coyote Cargo Freighter parts
-* Only those parts that are updated will appear in this and subsequent releases
-  * Parts refreshed (initially) in this release include: ccf-bridge, ccf-aquarium, ccf-bay-cargo, ccf-docking-500, ccf-engine, ccf-bay-evaprep, ccf-greenhouse, ccf-grinder, ccf-hab-common, ccf-hull,
+* 28 total parts
+  * Only updated parts are included
+  * 8 parts refreshed in this release which include:
+    * Bay-Storage
+    * Greenhouse-sm
+    * Hab-Passenger
+    * Hab-Quarters
+    * Reactor-sm
+    * Recycler
+    * Recycler-sm
+    * Hull-Truss-Rear
+  * 18 total parts now through Phase I
+  * 10 parts remain to be refreshed/updated
+* NEW:
+  * resource patch in case Community Resource Patch is not installed (reactor)
+  * RemoteTech compatibility
+* Bridge's antenna now is connected and has increased range
+* Further localization including USI compatability patches
 * `ghostparts.cfg` has been temporarily added to attempt to prevent save game spoilage but will not be *haunting* for long
-
-
-Smallreactor.cfg
-Smallrecycler.cfg
-Storage.cfg
-HabQuarters.cfg
-PassengerCabin.cfg
-RearTruss.cfg
-Recycler.cfg
-SmallGreenhouse.cfg
-
 
 ### Status 0.3.99.1
 
 * Issues
+  * closes #108 - Coyote Cargo Freighter (CCF) 0.3.99.1-prerelease `<EDITION>` edition
+  * closes #109 - 0.3.99.1 Verify Legal Mumbo Jumbo
+  * closes #110 - 0.3.99.1 Update Documentation
+  * closes #111 - 0.3.99.1 Update Social Media
+* Closes
+  * closes #29 - CSIfreightersmallpowerreactor has FillAmount = 0.95 in file
+  * closes #57 - Add RemoteTech support
+  * closes #104 - Docking Port title and description same as Cargo Bay
+  * closes #105 - Docking Port Light
+* Updates
+  * updates #103 - Firespitter
+  * updates #102 - Hanger
+  * updates #101 - USI-Karbonite
+  * updates #100 - USILifeSupport.cfg
+  * updates #99 - [CSITools.cfg]
+  * updates #28 - CSIfreightersmallpowerreactor Balance issues on power/cooling
 
 ---
 
