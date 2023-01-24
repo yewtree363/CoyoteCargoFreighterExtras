@@ -49,6 +49,7 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 >* [Known Issues][issue] for more details of feature requests and known issues
 >* [Marketing Slicks][markt]
 >* [Parts Catalog][parts] for part pictures
+>* [SketchFab](https://sketchfab.com/danielfay88)
 
 ### YouTube review by [`Kottabos Gaming`](https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/)
 
