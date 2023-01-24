@@ -26,13 +26,52 @@ Coyote Cargo Freighter by Coyote Space Industries (CSI) is a massive parts pack 
 * Mallet *(Only with Kerbal Inventory System installed)*
 * SurveyStake
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/MOD-NAME/master/GameData/MOD-NAME/Parts/%40thumbs/ElMallet_icon.png" alt="Mallet" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/MOD-NAME/master/GameData/MOD-NAME/Parts/%40thumbs/ELSurveyStake_icon.png" alt="SurveyStake" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/CoyoteCargoFreighter/master/docs/40thumbs/
+  
+  ElMallet_icon.png" alt="Mallet" width="25%" height="25%" />
 
-* MicroPad
-* OrbitalDock
+* Aquarium
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/CoyoteCargoFreighter/master/docs/40thumbs/ccf-aquarium_icon.png" alt="aquarium" width="25%" height="25%" />
+
+* bay-cargo
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/CoyoteCargoFreighter/master/docs/40thumbs/ccf-bay-cargo_icon.png" alt="bay-cargo" width="25%" height="25%" />
+
+* bay-evaprep 
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/CoyoteCargoFreighter/master/docs/40thumbs/ccf-bay-evaprep_icon.png" alt="bay-evaprep" width="25%" height="25%" />
+
+* bridge
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/CoyoteCargoFreighter/master/docs/40thumbs/ccf-bridge_icon.png" alt="bridge" width="25%" height="25%" />
+
+* dock-500
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/CoyoteCargoFreighter/master/docs/40thumbs/ccf-dock-500_icon.png" alt="dock-500" width="25%" height="25%" />
+
+* engine
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/CoyoteCargoFreighter/master/docs/40thumbs/ccf-engine_icon.png" alt="engine" width="25%" height="25%" />
+
+* greenhouse
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/CoyoteCargoFreighter/master/docs/40thumbs/ccf-greenhouse_icon.png" alt="greenhouse" width="25%" height="25%" />
+
+* grinder
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/CoyoteCargoFreighter/master/docs/40thumbs/ccf-grinder_icon.png" alt="grinder" width="25%" height="25%" />
+
+* hab-common
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/CoyoteCargoFreighter/master/docs/40thumbs/ccf-hab-common_icon.png" alt="hab-common" width="25%" height="25%" />
+
+* hull
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/CoyoteCargoFreighter/master/docs/40thumbs/ccf-hull_icon.png" alt="hull" width="25%" height="25%" />
 
 ---
 
-[top](#Parts-Catalog)
+[top](#parts-catalog)
 
 <!-- this file CC BY-ND 4.0 by zer0Kerbal -->
