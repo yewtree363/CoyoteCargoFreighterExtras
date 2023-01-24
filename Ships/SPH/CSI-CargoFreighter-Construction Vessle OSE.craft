@@ -3455,7 +3455,7 @@ PART
 		name = FStextureSwitch2
 		isEnabled = True
 		selectedTexture = 0
-		selectedTextureURL = CoyoteSpaceIndustries/CoyoteCargoFreighter/Assets/01
+		selectedTextureURL = CoyoteSpace/CoyoteCargoFreighter/Assets/01
 		selectedMapURL = 
 		stagingEnabled = True
 		EVENTS
