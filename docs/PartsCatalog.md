@@ -21,26 +21,16 @@ updated: 15 May 2022 -->
 
 Coyote Cargo Freighter by Coyote Space Industries (CSI) is a massive parts pack for Kerbal Space Program.
 
----
-
-* Mallet *(Only with Kerbal Inventory System installed)*
-* SurveyStake
-
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/CoyoteCargoFreighter/master/docs/thumbs/
-  
-  ElMallet_icon.png" alt="Mallet" width="25%" height="25%" />
-
 * Aquarium
 
   <img src="https://raw.githubusercontent.com/zer0Kerbal/CoyoteCargoFreighter/master/docs/thumbs/ccf-aquarium_icon.png" alt="aquarium" width="25%" height="25%" />
 
-* bay-cargo
+* Bays
+  * cargo
+  * storage
+  * eva prep
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/CoyoteCargoFreighter/master/docs/thumbs/ccf-bay-cargo_icon.png" alt="bay-cargo" width="25%" height="25%" />
-
-* bay-evaprep 
-
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/CoyoteCargoFreighter/master/docs/thumbs/ccf-bay-evaprep_icon.png" alt="bay-evaprep" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/CoyoteCargoFreighter/master/docs/thumbs/ccf-bay-cargo_icon.png" alt="bay-cargo" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/CoyoteCargoFreighter/master/docs/thumbs/ccf-bay-storage_icon.png" alt="storage bay" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/CoyoteCargoFreighter/master/docs/thumbs/ccf-bay-evaprep_icon.png" alt="bay-evaprep" width="25%" height="25%" />
 
 * bridge
 
@@ -55,20 +45,38 @@ Coyote Cargo Freighter by Coyote Space Industries (CSI) is a massive parts pack 
   <img src="https://raw.githubusercontent.com/zer0Kerbal/CoyoteCargoFreighter/master/docs/thumbs/ccf-engine_icon.png" alt="engine" width="25%" height="25%" />
 
 * greenhouse
+  * normal
+  * small
 
   <img src="https://raw.githubusercontent.com/zer0Kerbal/CoyoteCargoFreighter/master/docs/thumbs/ccf-greenhouse_icon.png" alt="greenhouse" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/CoyoteCargoFreighter/master/docs/thumbs/ccf-greenhouse-sm_icon.png" alt="small greenhouse" width="25%" height="25%" />
 
 * grinder
 
   <img src="https://raw.githubusercontent.com/zer0Kerbal/CoyoteCargoFreighter/master/docs/thumbs/ccf-grinder_icon.png" alt="grinder" width="25%" height="25%" />
 
-* hab-common
+* hab
+  * common
+  * passenger
+  * quarters
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/CoyoteCargoFreighter/master/docs/thumbs/ccf-hab-common_icon.png" alt="hab-common" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/CoyoteCargoFreighter/master/docs/thumbs/ccf-hab-common_icon.png" alt="hab-common" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/CoyoteCargoFreighter/master/docs/thumbs/ccf-hab-passenger_icon.png" alt="passenger hab" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/CoyoteCargoFreighter/master/docs/thumbs/ccf-hab-quarters_icon.png" alt="hab-quarters" width="25%" height="25%" />
 
 * hull
+  * main
+  * rear truss
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/CoyoteCargoFreighter/master/docs/thumbs/ccf-hull_icon.png" alt="hull" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/CoyoteCargoFreighter/master/docs/thumbs/ccf-hull_icon.png" alt="hull" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/CoyoteCargoFreighter/master/docs/thumbs/ccf-hull-truss-rear_icon.png" alt="rear hull truss" width="25%" height="25%" />
+
+* Reactor
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/CoyoteCargoFreighter/master/docs/thumbs/ccf-reactor-sm_icon.png" alt="Small Reactor" width="25%" height="25%" />
+
+* Recycler
+  * recycler
+  * recycler, small
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/CoyoteCargoFreighter/master/docs/thumbs/ccf-recycler_icon.png" alt="Recycler" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/CoyoteCargoFreighter/master/docs/thumbs/ccf-recycler-sm_icon.png" alt="Recycler, Small" width="25%" height="25%" />
 
 ---
 

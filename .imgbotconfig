@@ -1,7 +1,7 @@
 {
     "schedule": "weekly",
     "ignoredFiles": [
-        "GameData/CoyoteSpaceIndustries/CoyoteCargoFreighter/*",
+        "GameData/CoyoteSpace/CoyoteCargoFreighter/*",
 		"source/*",
 		"**/@thumbs/**",
 		"**/Agencies/**",

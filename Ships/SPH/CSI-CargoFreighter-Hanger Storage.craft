@@ -2666,7 +2666,7 @@ PART
 		name = FStextureSwitch2
 		isEnabled = True
 		selectedTexture = 1
-		selectedTextureURL = CoyoteSpaceIndustries/CoyoteCargoFreighter/Assets/02
+		selectedTextureURL = CoyoteSpace/CoyoteCargoFreighter/Assets/02
 		selectedMapURL = 
 		stagingEnabled = True
 		EVENTS
@@ -2996,7 +2996,7 @@ PART
 		name = FStextureSwitch2
 		isEnabled = True
 		selectedTexture = 2
-		selectedTextureURL = CoyoteSpaceIndustries/CoyoteCargoFreighter/Assets/03
+		selectedTextureURL = CoyoteSpace/CoyoteCargoFreighter/Assets/03
 		selectedMapURL = 
 		stagingEnabled = True
 		EVENTS
@@ -3326,7 +3326,7 @@ PART
 		name = FStextureSwitch2
 		isEnabled = True
 		selectedTexture = 3
-		selectedTextureURL = CoyoteSpaceIndustries/CoyoteCargoFreighter/Assets/04
+		selectedTextureURL = CoyoteSpace/CoyoteCargoFreighter/Assets/04
 		selectedMapURL = 
 		stagingEnabled = True
 		EVENTS
@@ -3656,7 +3656,7 @@ PART
 		name = FStextureSwitch2
 		isEnabled = True
 		selectedTexture = 4
-		selectedTextureURL = CoyoteSpaceIndustries/CoyoteCargoFreighter/Assets/05
+		selectedTextureURL = CoyoteSpace/CoyoteCargoFreighter/Assets/05
 		selectedMapURL = 
 		stagingEnabled = True
 		EVENTS
