@@ -45,6 +45,7 @@ Another factor is `CSI Tools (CSIT)` (library addon) that adds vessel CoM balanc
 * Bridge's antenna now is connected and has increased range
 * Further localization including USI compatability patches
 * reencoded several assets from DXT3 to DXT5
+* Val found the missing fuse to add window lights
 * `ghostparts.cfg` has been temporarily added to attempt to prevent save game spoilage but will not be *haunting* for long
 
 ### Status 0.3.99.1
