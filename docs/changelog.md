@@ -57,6 +57,7 @@ Another factor is `CSI Tools (CSIT)` (library addon) that adds vessel CoM balanc
 * Bridge's antenna now is connected and has increased range
 * Further localization including USI compatability patches
 * reencoded several assets from DXT3 to DXT5
+* Val found the missing fuse to add window lights
 * `ghostparts.cfg` has been temporarily added to attempt to prevent save game spoilage but will not be *haunting* for long
 
 ### Status 0.3.99.1
@@ -72,6 +73,7 @@ Another factor is `CSI Tools (CSIT)` (library addon) that adds vessel CoM balanc
   * closes #104 - Docking Port title and description same as Cargo Bay
   * closes #105 - Docking Port Light
   * closes #113 - [ASSET] wrong encoding
+  * closes #114 - [ERR] Module Animate
 * Updates
   * updates #103 - Firespitter
   * updates #102 - Hanger
