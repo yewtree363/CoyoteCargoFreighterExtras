@@ -89,7 +89,7 @@ I take no part, nor am I interested in maintaining the [CKAN][ckan:url] metadata
 
 ### Dependencies
 
-* [Coyote Space Industries Ltd (CSI/L)][CSIL]
+* [Coyote Space Industries (CSI)][CSI]
 * [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url] [^2]
 
 ### Recommends
@@ -256,7 +256,7 @@ parts, config, agency, comms, crewed, flags, graphics, parts, resources
 [SOL]: https://forum.kerbalspaceprogram.com/index.php?/topic/192489-*/ "Solar Science (SOL)"
 [SYD]: https://forum.kerbalspaceprogram.com/index.php?/topic/192456-*/ "ScrapYard (SYD)"
 
-[CSIL]: https://github.com/zer0Kerbal/CoyoteSpaceIndustriesLtd "Coyote Space Industries Ltd (CSI/L)"
+[CSI]: https://github.com/zer0Kerbal/CoyoteSpaceIndustriesLtd "Coyote Space Industries (CSI)"
 [CSIT]: https://github.com/zer0Kerbal/CSITools "CSI Tools (CSIT)"
 
 [cck]: https://forum.kerbalspaceprogram.com/index.php?/topic/149840-*/ "Community Category Kit (CCK)"
