@@ -6,7 +6,7 @@
 ## Documents
 - [404](404.md)
 - [Assembly](Assembly.md)
-- [Attribution](Attribution.md)
+- [Attributions](Attributions.md)
 - [Disclaimer](Disclaimer.md)
 - [LegalMumboJumbo](LegalMumboJumbo.md)
 - [Localizations](Localizations.md)
